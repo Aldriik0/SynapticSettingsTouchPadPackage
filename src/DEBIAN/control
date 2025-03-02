@@ -1,0 +1,8 @@
+Package: synaptics
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Connor Jones <cjones10@zagmail.gonzaga.edu>
+Description: A simple package designed to adjust touchpad
+  settings on startup
