@@ -1,0 +1,10 @@
+# This is the systemd service file that you'll need to configure and install in the /lib/systemd/system/ directory so that systemd will know you to launch/start/stop your counter service.
+[Unit]
+Description=Service for running counter.py
+
+[Service]
+User=counter
+WorkingDirectory=/home/connorj/Programs/DevOps/systemd-counter-Aldriik0
+ExecStart=python counter.py
+
+
