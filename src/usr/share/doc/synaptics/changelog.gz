@@ -1,0 +1,13 @@
+test (1.0-2) stable; urgency=low
+
+  [ Aldriik0 ]
+  * Changes to installer 
+
+ -- Aldriik0 <cjones10@zagmail.gonzaga.edu>  Sun,  23 Feb 2025 11:30:00 +0100 
+
+test (1.0-1) stable; urgency=low
+
+  [ Aldriik0 ]
+  * Program to adjust settings of the touchpad on startup
+
+ -- Aldriik0 <cjones10@zagmail.gonzaga.edu>  Sun,  23 Feb 2025 11:00:00 +0100 
