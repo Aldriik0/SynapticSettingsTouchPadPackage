@@ -1,3 +1,3 @@
 /tmp
 *.deb
-bin/synaptics.service
+/bin/synaptics.service
