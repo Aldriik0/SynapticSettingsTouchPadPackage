@@ -8,3 +8,5 @@ lint-deb: build-deb
 	lintian ./synaptics.deb
 full-install:
 	./full-install.sh
+full-clean:
+	./full-clean.sh
